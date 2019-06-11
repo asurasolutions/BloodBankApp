@@ -1,0 +1,13 @@
+<resources>
+    <string name="new_user">GET STARTED</string>
+    <string name="sign_up">Verification</string>
+    <string name="signup_text">Please enter your phone number</string>
+    <string name="todo">TODO</string>
+    <string name="generate_otp">Generate OTP</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="previous">Previous</string>
+    <string name="otp_text">Enter the OTP sent to your phone.</string>
+    <string name="otp">OTP</string>
+    <string name="finish_sign_up">Finish Sign Up</string>
+    <string name="blood_availability">CHECK BLOOD AVAILABILITY</string>
+</resources>
